@@ -1,0 +1,23 @@
+{
+  "name": "peer2peer",
+  "version": "1.0.0",
+  "description": "voice biometrics",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaniKibichi/symmetrical-parakeet.git"
+  },
+  "keywords": [
+    "voice",
+    "biometrics"
+  ],
+  "author": "JaniKibichi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaniKibichi/symmetrical-parakeet/issues"
+  },
+  "homepage": "https://github.com/JaniKibichi/symmetrical-parakeet#readme"
+}
